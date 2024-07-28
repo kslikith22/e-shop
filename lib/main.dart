@@ -4,7 +4,6 @@ import 'package:e_shop/providers/product_provider.dart';
 import 'package:e_shop/providers/user_provider.dart';
 import 'package:e_shop/screens/splash_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979890909808",
+    "project_id": "e-shop-assignment-a680e",
+    "storage_bucket": "e-shop-assignment-a680e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979890909808:android:fb1a3dc208d31adea13ab5",
+        "android_client_info": {
+          "package_name": "com.example.e_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36vx8BQvPliqZdPvgjTV9CwyyT27dblU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
